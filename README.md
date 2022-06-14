@@ -13,4 +13,5 @@ Step 5:
 Execute "npm start"
 
 Note:
-Backend application is running on 8080 port and React application on 3000
+Backend Node application is running on 8080 port and React application on 3000.
+Make sure MongoDb is installed in the system
